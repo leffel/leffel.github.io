@@ -1,0 +1,33 @@
+<div id="footerwrap">
+    <div class="container">
+        <div class="row">
+            {% comment %}
+            <div class="col-lg-4">
+                <h4>About</h4>
+                <div class="hline-w"></div>
+                <p>{{ site.about }}</p>
+            </div>
+            {% endcomment %}
+            <div class="col-lg-4">
+                {% comment %}
+                <h4>Social Links</h4>
+                <div class="hline-w"></div>
+                {% endcomment %}
+                    {% for network in site.social %}
+                        <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-{{ network.title }}"></i></a>
+                    {% endfor %}
+            </div>
+           {% comment %}
+           <div class="col-lg-4">
+                <h4>Our Bunker</h4>
+                <div class="hline-w"></div>
+                <p>
+                    {% for line in site.address.first.lines %}
+                        {{ line }} <br>
+                    {% endfor %}
+                </p>
+            </div>
+            {% endcomment %}
+        </div><! --/row -->
+    </div><! --/container -->
+</div><! --/footerwrap -->

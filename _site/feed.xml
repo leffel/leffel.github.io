@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicole Leffel</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://nicoleleffel.com/</link>
+    <atom:link href="http://nicoleleffel.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 12 Feb 2016 14:45:57 -0500</pubDate>
+    <lastBuildDate>Fri, 12 Feb 2016 14:45:57 -0500</lastBuildDate>
+    <generator>Jekyll v3.0.2</generator>
+    
+      <item>
+        <title>Project: The Text Roulette</title>
+        <description>&lt;h4 id=&quot;text-roulette&quot;&gt;Text Roulette&lt;/h4&gt;
+&lt;p&gt;Writers create text roulette games by categorizing chunks of text to be shuffled. Readers play by shuffling through the combinations, with the option to share their favorites.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Launched in 2015 for mobile web and the BuzzFeed app. &lt;a href=&quot;http://www.buzzfeed.com/awesomer/whats-your-benedict-cumberbatch-name&quot;&gt;Try it here!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A supplementary creation tool empowers editorial staff to make and publish their own text roulette games on the fly.&lt;/li&gt;
+  &lt;li&gt;Dozens of posts featured this format in 2015, including &lt;a href=&quot;http://www.buzzfeed.com/shannonkeating/female-queerness-is-not-a-phase&quot;&gt;longform pieces&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 25 Oct 2015 12:54:46 -0400</pubDate>
+        <link>http://nicoleleffel.com/project/text-roulette</link>
+        <guid isPermaLink="true">http://nicoleleffel.com/project/text-roulette</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: The Would You Rather</title>
+        <description>&lt;h4 id=&quot;would-you-rather&quot;&gt;Would You Rather&lt;/h4&gt;
+&lt;p&gt;Players choose between the lesser of two evils in this marathon round of Would You Rather! They can see how their choices match up against other players, and share their answers at the end of each five rounds.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Launched in 2015 for mobile web and the BuzzFeed app. &lt;a href=&quot;http://www.buzzfeed.com/danielkibblesmith/would-you-rather-nightmare-edition&quot;&gt;Try it here!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Mon, 01 Jun 2015 12:54:46 -0400</pubDate>
+        <link>http://nicoleleffel.com/project/would-you-rather</link>
+        <guid isPermaLink="true">http://nicoleleffel.com/project/would-you-rather</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: The Mix &amp; Matcher</title>
+        <description>&lt;h4 id=&quot;mix--match-format&quot;&gt;Mix &amp;amp; Match Format&lt;/h4&gt;
+&lt;p&gt;Players swipe or shuffle to find their favorite combo, then share it with their friends.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Launched in 2015 for mobile web and the BuzzFeed app. &lt;a href=&quot;http://www.buzzfeed.com/games/give-snow-white-a-hipster-makeover&quot;&gt;Try it here!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A supplementary creation tool empowers editorial staff to make and publish their own image mixers on the fly.&lt;/li&gt;
+  &lt;li&gt;The first iteration of this format was launched in 2014. &lt;a href=&quot;http://www.buzzfeed.com/makeupcom/how-should-i-wear-my-makeup-today&quot;&gt;“Beauty Roulette”&lt;/a&gt; was sponsored by L’Oreal and includes an e-commerce integration with Shoppable, encouraging players to buy the beauty products in their favorite combos.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 01 Jun 2015 12:54:46 -0400</pubDate>
+        <link>http://nicoleleffel.com/project/image-mixer</link>
+        <guid isPermaLink="true">http://nicoleleffel.com/project/image-mixer</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: The BuzzFeed Crossword</title>
+        <description>&lt;h4 id=&quot;the-buzzfeed-crossword&quot;&gt;The BuzzFeed Crossword&lt;/h4&gt;
+&lt;p&gt;Content creators use this format to publish crosswords of different shapes, sizes, and difficulty. Players complete their puzzles and then share their scores.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Launched in 2015 for mobile web and the BuzzFeed app. &lt;a href=&quot;http://www.buzzfeed.com/calebmadison/can-you-find-the-taylor-swift-songs-hidden-in-this-crossword&quot;&gt;Try it here!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A supplementary creation tool empowers editorial staff to make and publish their own crossword games on the fly.&lt;/li&gt;
+  &lt;li&gt;This format is used daily, Monday through Friday. &lt;a href=&quot;http://www.buzzfeed.com/puzzles&quot;&gt;Check out more puzzles here!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 01 Jun 2015 12:54:46 -0400</pubDate>
+        <link>http://nicoleleffel.com/project/crossword</link>
+        <guid isPermaLink="true">http://nicoleleffel.com/project/crossword</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: The Choose-Your-Own Adventure.</title>
+        <description>&lt;h4 id=&quot;choose-your-own-adventure-format&quot;&gt;Choose Your Own Adventure Format&lt;/h4&gt;
+&lt;p&gt;By integrating &lt;a href=&quot;https://twinery.org/&quot;&gt;Twine&lt;/a&gt; with our own games code base, we empowered writers to make and publish their own Choose Your Own Adventure games on BuzzFeed. Players tap their way through a branching narrative and share their endings.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Launched in 2015 for mobile web and the BuzzFeed app. &lt;a href=&quot;http://www.buzzfeed.com/alisoncaporimo/get-dat-tat&quot;&gt;Try it here!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A supplementary creation tool empowers editorial staff to make and publish their own CYOA games on the fly.&lt;/li&gt;
+  &lt;li&gt;Over a dozen posts using this format were created in 2015. &lt;a href=&quot;http://www.buzzfeed.com/tag/choose_your_own_adventure&quot;&gt;You can browse many of them here.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;In addition to the standard page-turning layout, we also experimented with a layout that builds dynamically as the reader progresses. &lt;a href=&quot;http://www.buzzfeed.com/nataliebrown/what-dessert-should-you-bake-this-weekend&quot;&gt;Try it here!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 01 Jun 2015 12:54:46 -0400</pubDate>
+        <link>http://nicoleleffel.com/project/choose-your-own-adventure</link>
+        <guid isPermaLink="true">http://nicoleleffel.com/project/choose-your-own-adventure</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: The Captioner</title>
+        <description>&lt;h4 id=&quot;caption-contest-format&quot;&gt;Caption Contest Format&lt;/h4&gt;
+&lt;p&gt;Content creators use this format to craft captionable scenes for readers. Readers contribute their funny captions, after which they can share them across social media platforms - or directly into the comments.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Launched in 2015 for mobile web and the BuzzFeed app. &lt;a href=&quot;http://www.buzzfeed.com/rossalynwarren/madonna-has-her-drake-and-eats-it&quot;&gt;Try it here!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A supplementary creation tool empowers editorial staff to make and publish their own caption contests on the fly.&lt;/li&gt;
+  &lt;li&gt;Localized for international audiences.&lt;/li&gt;
+  &lt;li&gt;Integrated with the BuzzFeed comment system.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 01 Jun 2015 12:54:46 -0400</pubDate>
+        <link>http://nicoleleffel.com/project/captioner</link>
+        <guid isPermaLink="true">http://nicoleleffel.com/project/captioner</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: BuzzFeed Quizzes</title>
+        <description>&lt;h4 id=&quot;buzzfeed-quizzes&quot;&gt;BuzzFeed Quizzes&lt;/h4&gt;
+&lt;p&gt;I worked on the BuzzFeed quiz experience in 2015, including A/B testing different result functionality and designs, creating a new answer type, and adding other features. &lt;a href=&quot;http://www.buzzfeed.com/quizzes&quot;&gt;You can take some quizzes here!&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Jun 2015 12:54:46 -0400</pubDate>
+        <link>http://nicoleleffel.com/project/buzzfeed-quizzes</link>
+        <guid isPermaLink="true">http://nicoleleffel.com/project/buzzfeed-quizzes</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: The Brainteaser</title>
+        <description>&lt;h4 id=&quot;brainteaser-format&quot;&gt;Brainteaser Format&lt;/h4&gt;
+&lt;p&gt;Content creators use this format to craft mini puzzles for readers. Players type in an answer to a question posed in the headline or as part of the image itself. They can guess as many times as they’d like, or give up if they’re stumped!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Launched in 2015 for mobile web and the BuzzFeed app. &lt;a href=&quot;http://www.buzzfeed.com/games/can-you-guess-these-movies-based-on-their-emoji&quot;&gt;Try it here!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A supplementary creation tool empowers editorial staff to make and publish their own brainteaser puzzles on the fly.&lt;/li&gt;
+  &lt;li&gt;Dozens of posts featured this format in 2015.&lt;/li&gt;
+  &lt;li&gt;Localized for international audiences.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 01 Jun 2015 12:54:46 -0400</pubDate>
+        <link>http://nicoleleffel.com/project/brainteaser</link>
+        <guid isPermaLink="true">http://nicoleleffel.com/project/brainteaser</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: How Long Would You Last As A Barista?</title>
+        <description>&lt;h4 id=&quot;mobile-first-memory-game&quot;&gt;Mobile-First Memory Game&lt;/h4&gt;
+&lt;p&gt;Players take orders from various customers and make sure to complete them correctly.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Launched in 2015 for mobile web and the BuzzFeed app. &lt;a href=&quot;http://www.buzzfeed.com/games/can-you-cut-it-barista&quot;&gt;Try it here!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Includes ten increasingly difficult levels and four types of customers.&lt;/li&gt;
+  &lt;li&gt;Features a player leaderboard.&lt;/li&gt;
+  &lt;li&gt;Built using &lt;a href=&quot;http://www.pixijs.com/&quot;&gt;Pixi.js&lt;/a&gt; for beautiful, fluid animation rendering on mobile devices.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 01 Jun 2015 12:54:46 -0400</pubDate>
+        <link>http://nicoleleffel.com/project/memory-game</link>
+        <guid isPermaLink="true">http://nicoleleffel.com/project/memory-game</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+      <item>
+        <title>Project: Collecting &amp; Dodging Game</title>
+        <description>&lt;h4 id=&quot;collecting--dodging-game&quot;&gt;Collecting &amp;amp; Dodging Game&lt;/h4&gt;
+&lt;p&gt;Players tap the left or right sides of their device to move Slothy. The goal is to avoid sleep-inducing items and collect the super-powerful coffee cups for as long as possible. Players recieve a shareable score at the end of the game.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Launched in 2014 for mobile web and the BuzzFeed app. &lt;a href=&quot;http://www.buzzfeed.com/chelseamarshall/stop-everything-and-play-the-sleepy-sloth-sprint&quot;&gt;Try it here!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;The Sloth Sprint game was launched as part of BuzzFeed’s &lt;a href=&quot;http://www.buzzfeed.com/slothsgiving&quot;&gt;“Sloth Week.”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Repurposed this format in 2015 for the &lt;a href=&quot;http://www.buzzfeed.com/temptations/can-you-survive-the-snacky-mouse-rumble&quot;&gt;“Snacky Mouse Rumble,”&lt;/a&gt; a sponsored game for Mars Temptations cat treats.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 01 Jun 2014 12:54:46 -0400</pubDate>
+        <link>http://nicoleleffel.com/project/sloth-sprint</link>
+        <guid isPermaLink="true">http://nicoleleffel.com/project/sloth-sprint</guid>
+        
+        
+        <category>project</category>
+        
+      </item>
+    
+  </channel>
+</rss>

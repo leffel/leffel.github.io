@@ -1,0 +1,128 @@
+### GENERAL SETTINGS ###
+
+# Site settings
+title: Nicole Leffel
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+analytics: #Google analytics code in the format XX-nnnnnnnn-n
+baseurl: "" #important: start with /
+url: "http://nicoleleffel.com"
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:title
+excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
+
+colors:  #in hex code if not noted else
+  primary: "#F840FF" #"#F70031" ß
+  primary_rgb: "248,64,255" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.  
+  secondary: "#CF00D5" #"#33004D"
+  body_font_color: "#333"
+  p_font_color: "#333"
+  h_font_color: "#000"
+  link: "#428bca"
+  link_hover: "#01b2fe"
+  footer_heading: "#ffffff"
+  footer_content: "#ffffff"
+  
+  
+### CONTACT SETTINGS ###
+
+# Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/nicoleleffel
+  - title: twitter
+    url: https://twitter.com/devilherdue
+  - title: envelope
+    url: mailto:nicole.leffel@gmail.com
+  - title: get-pocket
+    url: https://getpocket.com/@nicoleleffel
+    
+# Postal address (add as many lines as necessary). Shown in footer and on Contact page.
+address:
+  - lines: 
+    - New York, NY
+email: nicole.leffel@gmail.com
+tel:
+
+### GENERAL DATA FOR VARIOUS LOCATIONS ###
+    
+# Members information. Shown on About page.
+members:
+  - name: Mark Webber
+    position: CEO
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team01.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Paul Jameson
+    position: Lead Designer
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team02.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Laura Sommers
+    position: Lead Developer
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team03.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+  - name: Martin Blunt
+    position: Marketing
+    text: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+    img: team04.jpg
+    social:
+      - title: envelope #use for email address
+        url: mailto:name@domain.com
+      - title: twitter
+        url: http://twitter.com/handle
+
+# Clients information. Shown on Home and About pages.
+clients:
+  - name: BuzzFeed
+    img: buzzfeed-logo-480.png
+    square: no
+    url: http://www.buzzfeed.com/
+  - name: NBCUniversal
+    img: nbcuniversal-logo-480.png
+    square: no
+    url: http://www.nbcuniversal.com/
+  - name: FreshPlanet
+    img: freshplanet-logo-small.png
+    square: "yes"
+    url: http://freshplanet.com/
+  - name: This Is Pop
+    img: thisispop-logo-480.png
+    square: no
+    url: http://thisispop.com/
+  - name: TreSensa
+    img: tresensa-logo-small.png
+    square: "yes"
+    url: http://www.tresensa.com/
+  - name: Large Animal
+    img: largeanimal-logo-small.png
+    square: "yes"
+    url: http://largeanimal.com/
+  - name: Arkadium
+    img: arkadium-logo-480.png
+    square: no
+    url: http://www.arkadium.com/
+
+
+# Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
+about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+
+# Testimonial content. Shown on Home and About page. 
+testimonial:
+    message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    author: Marcel Newman
+    position: WEB DESIGNER - BLACKTIE.CO
