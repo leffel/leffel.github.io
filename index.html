@@ -1,1 +1,61 @@
+---
+layout: index
+title: Home
+permalink: /
+---
 
+<div id="service">
+    <div class="container">
+        <div class="row centered">
+            <div class="col-md-4">
+                <i class="fa fa-rocket"></i>
+                <h4>Ship</h4>
+                <p>I’ve shipped dozens of unique interactive experiences for massive consumer audiences across a multitude of platforms. From prototype to optimization, I’ve led projects at every stage in the product lifecycle.</p>
+            </div>
+            <div class="col-md-4">
+                <i class="fa fa-cogs"></i>
+                <h4>Experiment</h4>
+                <p>Continuous iteration drives everything I do. I combine qualitative data analysis and quantitative user research to create products that meet strategic goals and are compelling, first-class experiences.</p>
+            </div>
+            <div class="col-md-4">
+                <i class="fa fa-hand-peace-o"></i>
+                <h4>Play</h4>
+                <p>Play emboldens us to learn more about ourselves and show more empathy towards others. My highest aim is to inspire wonder, encourage exploration, and make the world a more imaginative place.</p>
+            </div>
+            {% comment %}
+                <a href="/portfolio" class="btn btn-theme full_portfolio_btn">Learn More</a>
+            {% endcomment %}
+        </div>
+    </div><! --/container -->
+</div><! --/service -->
+
+{% include portfolio.html title="Portfolio Hightlights" limit=100 %}
+
+{% comment %}
+<div class="container mtb">
+    <div class="row">
+        <div class="col-lg-4 col-lg-offset-1">
+            <h4>More About Our Agency.</h4>
+            <p>{{ site.about }}</p>
+            <p><br/><a href="{{ "/about/" | prepend: site.baseurl }}" class="btn btn-theme">More Info</a></p>
+        </div>
+
+        <div class="col-lg-3">
+            <h4>Frequently Asked</h4>
+            <div class="hline"></div>
+            {% for post in site.categories['question'] %} 
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></p>
+            {% endfor %}
+        </div>
+
+        <div class="col-lg-3">
+            <h4>Latest Posts</h4>
+            <div class="hline"></div>
+            {% for post in site.categories['blog'] limit:5 %} 
+                <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}.</a></p>
+            {% endfor %} 
+        </div>
+
+    </div><! --/row -->
+</div><! --/container -->
+{% endcomment %}
