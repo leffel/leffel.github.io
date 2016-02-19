@@ -17,7 +17,7 @@ tagged:
 client: 
 website: http://blacktie.co
 ---
-####Caption Contest Format
+### Caption Contest Format
 Content creators use this format to craft captionable scenes for readers. Readers contribute their funny captions, after which they can share them across social media platforms - or directly into the comments.
 
 * Launched in 2015 for mobile web and the BuzzFeed app. [Try it here!](http://www.buzzfeed.com/rossalynwarren/madonna-has-her-drake-and-eats-it)

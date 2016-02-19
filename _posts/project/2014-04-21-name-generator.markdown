@@ -18,7 +18,7 @@ tagged:
 client: 
 website: http://blacktie.co
 ---
-####Name Generator Format
+### Name Generator Format
 This name generator takes a simple input and returns a fun, custom fantasy name plus dramatic shield sigil.
 
 

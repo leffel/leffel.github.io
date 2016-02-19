@@ -17,7 +17,7 @@ tagged:
 client: 
 website: http://blacktie.co
 ---
-####Spa Life
+### Spa Life
 Spa Life is a fast-paced branded Facebook game where players must manage a busy spa and all of its demanding clientele. Keep your clients happy and create the most luxurious spa destination in your city! 
 
 * Launched on Facebook in 2011.

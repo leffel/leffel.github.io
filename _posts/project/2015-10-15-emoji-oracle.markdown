@@ -18,7 +18,7 @@ tagged:
 client: 
 website: http://blacktie.co
 ---
-####The Magical Mindreader
+### The Magical Mindreader
 Players pick an emoji to picture in their mind, then answer Yes or No questions. After this series of questions, the Oracle guesses which emoji the palyer was thinking of. Whether the Oracle was right or wrong, players recieve a shareable result.
 
 * Launched in 2014 for mobile web and the BuzzFeed app. [Try it here!](http://www.buzzfeed.com/expresident/amazing-emoji-oracle)

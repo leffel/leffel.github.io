@@ -17,7 +17,7 @@ tagged:
 client: 
 website: http://blacktie.co
 ---
-####Modern Family Sync
+### Modern Family Sync
 Players load the app when they begin watching an episode of Modern Family, and play along as trivia questions appear. Faster answers earn more points, and a lightweight multiplayer system encourages players to compete again other viewers.
 
 * Launched in 2013 to coincide with USA's airing of Modern Family. 

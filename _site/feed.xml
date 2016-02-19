@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nicole Leffel</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <description>Hi! My name is Nicole. I make interactive products.</description>
     <link>http://nicoleleffel.com/</link>
     <atom:link href="http://nicoleleffel.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 12 Feb 2016 14:45:57 -0500</pubDate>
-    <lastBuildDate>Fri, 12 Feb 2016 14:45:57 -0500</lastBuildDate>
+    <pubDate>Fri, 19 Feb 2016 17:02:45 -0500</pubDate>
+    <lastBuildDate>Fri, 19 Feb 2016 17:02:45 -0500</lastBuildDate>
     <generator>Jekyll v3.0.2</generator>
     
       <item>
         <title>Project: The Text Roulette</title>
-        <description>&lt;h4 id=&quot;text-roulette&quot;&gt;Text Roulette&lt;/h4&gt;
+        <description>&lt;h3 id=&quot;text-roulette&quot;&gt;Text Roulette&lt;/h3&gt;
 &lt;p&gt;Writers create text roulette games by categorizing chunks of text to be shuffled. Readers play by shuffling through the combinations, with the option to share their favorites.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -31,7 +31,7 @@
     
       <item>
         <title>Project: The Would You Rather</title>
-        <description>&lt;h4 id=&quot;would-you-rather&quot;&gt;Would You Rather&lt;/h4&gt;
+        <description>&lt;h3 id=&quot;would-you-rather&quot;&gt;Would You Rather&lt;/h3&gt;
 &lt;p&gt;Players choose between the lesser of two evils in this marathon round of Would You Rather! They can see how their choices match up against other players, and share their answers at the end of each five rounds.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -50,7 +50,7 @@
     
       <item>
         <title>Project: The Mix &amp; Matcher</title>
-        <description>&lt;h4 id=&quot;mix--match-format&quot;&gt;Mix &amp;amp; Match Format&lt;/h4&gt;
+        <description>&lt;h3 id=&quot;mix--match-format&quot;&gt;Mix &amp;amp; Match Format&lt;/h3&gt;
 &lt;p&gt;Players swipe or shuffle to find their favorite combo, then share it with their friends.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -70,7 +70,7 @@
     
       <item>
         <title>Project: The BuzzFeed Crossword</title>
-        <description>&lt;h4 id=&quot;the-buzzfeed-crossword&quot;&gt;The BuzzFeed Crossword&lt;/h4&gt;
+        <description>&lt;h3 id=&quot;the-buzzfeed-crossword&quot;&gt;The BuzzFeed Crossword&lt;/h3&gt;
 &lt;p&gt;Content creators use this format to publish crosswords of different shapes, sizes, and difficulty. Players complete their puzzles and then share their scores.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -90,7 +90,7 @@
     
       <item>
         <title>Project: The Choose-Your-Own Adventure.</title>
-        <description>&lt;h4 id=&quot;choose-your-own-adventure-format&quot;&gt;Choose Your Own Adventure Format&lt;/h4&gt;
+        <description>&lt;h3 id=&quot;choose-your-own-adventure-format&quot;&gt;Choose Your Own Adventure Format&lt;/h3&gt;
 &lt;p&gt;By integrating &lt;a href=&quot;https://twinery.org/&quot;&gt;Twine&lt;/a&gt; with our own games code base, we empowered writers to make and publish their own Choose Your Own Adventure games on BuzzFeed. Players tap their way through a branching narrative and share their endings.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -111,7 +111,7 @@
     
       <item>
         <title>Project: The Captioner</title>
-        <description>&lt;h4 id=&quot;caption-contest-format&quot;&gt;Caption Contest Format&lt;/h4&gt;
+        <description>&lt;h3 id=&quot;caption-contest-format&quot;&gt;Caption Contest Format&lt;/h3&gt;
 &lt;p&gt;Content creators use this format to craft captionable scenes for readers. Readers contribute their funny captions, after which they can share them across social media platforms - or directly into the comments.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -132,7 +132,7 @@
     
       <item>
         <title>Project: BuzzFeed Quizzes</title>
-        <description>&lt;h4 id=&quot;buzzfeed-quizzes&quot;&gt;BuzzFeed Quizzes&lt;/h4&gt;
+        <description>&lt;h3 id=&quot;buzzfeed-quizzes&quot;&gt;BuzzFeed Quizzes&lt;/h3&gt;
 &lt;p&gt;I worked on the BuzzFeed quiz experience in 2015, including A/B testing different result functionality and designs, creating a new answer type, and adding other features. &lt;a href=&quot;http://www.buzzfeed.com/quizzes&quot;&gt;You can take some quizzes here!&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Jun 2015 12:54:46 -0400</pubDate>
@@ -146,7 +146,7 @@
     
       <item>
         <title>Project: The Brainteaser</title>
-        <description>&lt;h4 id=&quot;brainteaser-format&quot;&gt;Brainteaser Format&lt;/h4&gt;
+        <description>&lt;h3 id=&quot;brainteaser-format&quot;&gt;Brainteaser Format&lt;/h3&gt;
 &lt;p&gt;Content creators use this format to craft mini puzzles for readers. Players type in an answer to a question posed in the headline or as part of the image itself. They can guess as many times as they’d like, or give up if they’re stumped!&lt;/p&gt;
 
 &lt;ul&gt;
@@ -167,7 +167,7 @@
     
       <item>
         <title>Project: How Long Would You Last As A Barista?</title>
-        <description>&lt;h4 id=&quot;mobile-first-memory-game&quot;&gt;Mobile-First Memory Game&lt;/h4&gt;
+        <description>&lt;h3 id=&quot;mobile-first-memory-game&quot;&gt;Mobile-First Memory Game&lt;/h3&gt;
 &lt;p&gt;Players take orders from various customers and make sure to complete them correctly.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -188,7 +188,7 @@
     
       <item>
         <title>Project: Collecting &amp; Dodging Game</title>
-        <description>&lt;h4 id=&quot;collecting--dodging-game&quot;&gt;Collecting &amp;amp; Dodging Game&lt;/h4&gt;
+        <description>&lt;h3 id=&quot;collecting--dodging-game&quot;&gt;Collecting &amp;amp; Dodging Game&lt;/h3&gt;
 &lt;p&gt;Players tap the left or right sides of their device to move Slothy. The goal is to avoid sleep-inducing items and collect the super-powerful coffee cups for as long as possible. Players recieve a shareable score at the end of the game.&lt;/p&gt;
 
 &lt;ul&gt;

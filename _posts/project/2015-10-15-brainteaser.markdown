@@ -18,7 +18,7 @@ tagged:
 client: 
 website: http://blacktie.co
 ---
-####Brainteaser Format
+### Brainteaser Format
 Content creators use this format to craft mini puzzles for readers. Players type in an answer to a question posed in the headline or as part of the image itself. They can guess as many times as they'd like, or give up if they're stumped!
 
 * Launched in 2015 for mobile web and the BuzzFeed app. [Try it here!](http://www.buzzfeed.com/games/can-you-guess-these-movies-based-on-their-emoji)

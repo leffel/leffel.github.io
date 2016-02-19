@@ -17,9 +17,8 @@ tagged:
 client: 
 website: http://blacktie.co
 ---
-####Mix & Match Format
+### Mix & Match Format
 Players swipe or shuffle to find their favorite combo, then share it with their friends. 
-
 
 * Launched in 2015 for mobile web and the BuzzFeed app. [Try it here!](http://www.buzzfeed.com/games/give-snow-white-a-hipster-makeover)
 * A supplementary creation tool empowers editorial staff to make and publish their own image mixers on the fly. 

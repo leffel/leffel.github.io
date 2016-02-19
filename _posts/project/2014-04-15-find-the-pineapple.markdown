@@ -17,7 +17,7 @@ tagged:
 client: 
 website: http://blacktie.co
 ---
-####Find The Famous Pineapple
+### Find The Famous Pineapple
 Find the Famous Pineapple is a hidden object game developed for the Psych television audience. Pineapples are “hidden” in both classic paints and stylized renders show episodes, and players must find as many pineapples as possible within the time limit.
 
 * Launched in 2013 for mobile web. [Play it here.](http://bit.ly/IgMhzG)

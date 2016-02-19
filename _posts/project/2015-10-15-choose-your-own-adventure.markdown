@@ -18,7 +18,7 @@ tagged:
 client: 
 website: http://blacktie.co
 ---
-####Choose Your Own Adventure Format
+### Choose Your Own Adventure Format
 By integrating [Twine](https://twinery.org/) with our own games code base, we empowered writers to make and publish their own Choose Your Own Adventure games on BuzzFeed. Players tap their way through a branching narrative and share their endings.
 
 

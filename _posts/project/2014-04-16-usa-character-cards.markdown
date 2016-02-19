@@ -18,7 +18,7 @@ tagged:
 client: 
 website: http://blacktie.co
 ---
-###USA Character Cards
+### USA Character Cards
 USA Character Cards is a turn-based asynchronous card game inspired by classic blackjack. Players compete against each other by building territories that add up to 21. The player with the most points at the end of 6 rounds wins!
 
 * Launched in 2013 on the iOS App Store.

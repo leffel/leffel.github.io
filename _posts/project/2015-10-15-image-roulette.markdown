@@ -18,7 +18,7 @@ tagged:
 client: 
 website: http://blacktie.co
 ---
-####Image Roulette
+### Image Roulette
 Writers create image roulette games by selecting images to be shuffled, including any associated titles or URLs. Readers play by shuffling through the combinations, with the option to share their favorites.
 
 * Launched in 2014 for mobile web and the BuzzFeed app. [Try it here!](http://www.buzzfeed.com/perpetua/which-vegetarian-dinner-should-you-make-tonight)

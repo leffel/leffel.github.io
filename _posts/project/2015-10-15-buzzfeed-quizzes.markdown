@@ -18,5 +18,5 @@ tagged:
 client: 
 website: http://blacktie.co
 ---
-####BuzzFeed Quizzes
+### BuzzFeed Quizzes
 I worked on the BuzzFeed quiz experience in 2015, including A/B testing different result functionality and designs, creating a new answer type, and adding other features. [You can take some quizzes here!](http://www.buzzfeed.com/quizzes)

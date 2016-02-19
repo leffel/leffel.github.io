@@ -17,7 +17,7 @@ tagged:
 client: 
 website: http://blacktie.co
 ---
-####Collecting & Dodging Game
+### Collecting & Dodging Game
 Players tap the left or right sides of their device to move Slothy. The goal is to avoid sleep-inducing items and collect the super-powerful coffee cups for as long as possible. Players recieve a shareable score at the end of the game.
 
 * Launched in 2014 for mobile web and the BuzzFeed app. [Try it here!](http://www.buzzfeed.com/chelseamarshall/stop-everything-and-play-the-sleepy-sloth-sprint)

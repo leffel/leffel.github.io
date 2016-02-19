@@ -18,7 +18,7 @@ tagged:
 client: 
 website: http://blacktie.co
 ---
-####Would You Rather
+### Would You Rather
 Players choose between the lesser of two evils in this marathon round of Would You Rather! They can see how their choices match up against other players, and share their answers at the end of each five rounds.
 
 * Launched in 2015 for mobile web and the BuzzFeed app. [Try it here!](http://www.buzzfeed.com/danielkibblesmith/would-you-rather-nightmare-edition)

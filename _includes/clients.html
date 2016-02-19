@@ -1,10 +1,11 @@
 <div id="cwrap">
     <div class="container">
         <div class="row centered">
+            {% if include.title %}<h3 class="client_title">{{ include.title }}</h3>{% endif %}
             {% for client in site.clients %}
             {% if client.square == "yes" %}
                 <div class="logo_holder">
-                    <div class="col-lg-3 col-md-4 col-sm-4  client_logo_square">
+                    <div class="col-lg-3 col-md-3 col-sm-3  client_logo_square">
                         <a href="{{  client.url }}" target="_blank">
                             <img src="{{ "/assets/img/clients/" | prepend: site.baseurl }}{{ client.img }}" class="img-responsive">
                         </a>
@@ -13,7 +14,7 @@
                 </div>
             {% else %}
                 <div class="logo_holder">
-                <div class="col-lg-3 col-md-4 col-sm-4  client_logo">
+                <div class="col-lg-3 col-md-3 col-sm-3  client_logo">
                     <a href="{{  client.url }}" target="_blank">
                         <img src="{{ "/assets/img/clients/" | prepend: site.baseurl }}{{ client.img }}" class="img-responsive">
                     </a>

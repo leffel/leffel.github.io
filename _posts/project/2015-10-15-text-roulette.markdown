@@ -17,7 +17,7 @@ tagged:
 client: 
 website: http://blacktie.co
 ---
-####Text Roulette
+### Text Roulette
 Writers create text roulette games by categorizing chunks of text to be shuffled. Readers play by shuffling through the combinations, with the option to share their favorites.
 
 * Launched in 2015 for mobile web and the BuzzFeed app. [Try it here!](http://www.buzzfeed.com/awesomer/whats-your-benedict-cumberbatch-name)
