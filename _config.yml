@@ -2,7 +2,7 @@
 
 # Site settings
 title: Nicole Leffel
-description: "Hi! My name is Nicole. I make interactive products."
+description: "Hi! I'm Nicole. I make interactive products."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://nicoleleffel.com"
@@ -27,7 +27,9 @@ colors:  #in hex code if not noted else
   link_hover: "#01b2fe"
   footer_heading: "#ffffff"
   footer_content: "#ffffff"
-  
+
+gems:
+  - jemoji
   
 ### CONTACT SETTINGS ###
 

@@ -388,10 +388,12 @@ a:focus {
 
 .client_logo{
   height:200px;
+  margin:-2rem 0 -2rem 0;
 }
 
 .client_logo_square{
   height:200px;
+  margin:-2rem 0 -2rem 0;
 }
 
 .client_logo img {
