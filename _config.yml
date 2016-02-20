@@ -5,7 +5,7 @@ title: Nicole Leffel
 description: "Hi! I'm Nicole. I make interactive products."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
-url: "http://nicoleleffel.com"
+url: "http://www.nicoleleffel.com"
 
 # Build settings
 markdown: kramdown
