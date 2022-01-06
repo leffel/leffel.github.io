@@ -1,7 +1,7 @@
 # Site settings
-title: nicole leffel 🌿
+title: nico leffel
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://nicoleleffel.com" # the base hostname & protocol for your site, e.g. http://example.comxw
+url: "https://www.nicoleffel.net" # the base hostname & protocol for your site, e.g. http://example.comxw
 google_analytics: UA-34137671-1
 encoding: utf-8
 
